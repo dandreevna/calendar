@@ -1,4 +1,4 @@
-export function useDataTime() {
+export function useDateTime() {
   const now = new Date()
   const daysOfWeek = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su']
   const months = [
